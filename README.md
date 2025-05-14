@@ -1,2 +1,6 @@
-"# DisciplineManagementSystem" 
-"# DisciplineManagementSystem" 
+As part of my Java learning experience, I developed a web-based project titled “Discipline Management System”, aimed at simplifying the process of recording and managing student discipline reports in a college environment. The project was implemented using JSP (JavaServer Pages) for the backend logic and Oracle Database for data storage.
+I applied my knowledge of Java programming within JSP to create dynamic web pages that interact directly with the Oracle database using embedded JDBC code. All the logic, including form handling, database connections, and SQL operations, was written within JSP files. This allowed me to manage student records such as adding new entries, displaying existing records, and updating or deleting them through a user-friendly web interface.
+The application displays student records in an HTML table, with clickable icons for editing and deleting specific entries. I used JSP scriptlets and JDBC code blocks to connect to the database, execute SQL queries, and dynamically generate the content. Proper exception handling and input validation were also implemented to ensure robust operation.
+This project was a practical application of the concepts I learned through the NPTEL Programming in Java course. It helped me understand how server-side Java code works within a JSP context, and how to interact with databases using SQL and JDBC. The experience also improved my ability to debug and troubleshoot issues related to data retrieval and user interaction.
+Overall, the project strengthened my foundation in Java-based web development and gave me real-world exposure to using JSP and JDBC to build simple yet functional web applications.
+
